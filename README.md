@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-fylo-dark-theme-landing-page-using-flex-and-css-grid-uAm1Ijy-bm)
+-  Live Site URL: [live site URL here](https://youthful-liskov-5d664e.netlify.app/)
 
 ## Built with
 
